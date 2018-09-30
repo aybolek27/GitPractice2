@@ -10,6 +10,8 @@ public class FirstPractice {
 
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://google.com");
+		
+		System.out.println("hello world");
 	}
 
 }
